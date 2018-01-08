@@ -1,0 +1,6 @@
+Point;Embarked;lat;lon;country;city;EmbarkedName;Timestamp
+1;S;50.9137998;-1.4705322;United Kingdom;Southampton;Southampton ;10.05.1912 12:00
+2;C;49.6414807;-1.6683048;France;Cherbourg-Octeville;Cherbourg;10.05.1912 18:30
+3;Q;51.8507248;-8.3303593;Ireland;Cobh;Queenstown;11.05.1912 11:30
+4;;41.726931;-49.948253;;;Sank place;14.05.1912 23:40
+5;N;40.7414763;-74.0108465;United States;New York;Pier 54, New York;
